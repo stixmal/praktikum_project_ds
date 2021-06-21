@@ -9,4 +9,4 @@
    
 ---
 
-**Стек технологий**: *pandas, NumPy, Python.
+**Библиотеки**: pandas, NumPy, Python, pymystem3.
