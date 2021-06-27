@@ -18,6 +18,6 @@
 | [Отток клиентов из банка](https://github.com/stixmal/praktikum_project_ds/blob/main/Отток%20клиентов%20из%20банка/customer_churn.ipynb) | Предобработка данных, feature engineering, исследовательский анализ, классификация, метрики качества | *pandas, NumPy, matplotlib, scikit-learn* |
 | [Моделирование процесса восстановления золота из руды](https://github.com/stixmal/praktikum_project_ds/blob/main/Моделирование%20процесса%20восстановления%20золота%20из%20руды/gold_recovery.ipynb) | Исследовательский анализ, проверка статистических гипотез, визуализация данных, регрессия, классификация | *pandas, NumPy, matplotlib, Seaborn, SciPy, scikit-learn* |
 | [Защита данных страховой компании](https://github.com/stixmal/praktikum_project_ds/blob/main/Защита%20данных%20страховой%20компании/data_protection.ipynb) | Линейная алгебра, машинное обучение | *pandas, NumPy, scikit-learn* |
-| [Определение рыночной стоимости автомобиля](https://github.com/stixmal/praktikum_project_ds/blob/main/Определение%20рыночной%20стоимости%20автомобиля/autos.ipynb) | Линейная алгебра, машинное обучение | *pandas, NumPy, matplotlib, LightGBM* |
+| [Определение рыночной стоимости автомобиля](https://github.com/stixmal/praktikum_project_ds/blob/main/Определение%20рыночной%20стоимости%20автомобиля/autos.ipynb) | Регрессия, градиентный бустинг, исследовательский анализ,  предобработка данных| *pandas, NumPy, matplotlib, LightGBM* |
 
 ---
