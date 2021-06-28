@@ -20,5 +20,6 @@
 | [Защита данных страховой компании](https://github.com/stixmal/praktikum_project_ds/blob/main/Защита%20данных%20страховой%20компании/data_protection.ipynb) | Линейная алгебра, машинное обучение | *pandas, NumPy, scikit-learn* |
 | [Определение рыночной стоимости автомобиля](https://github.com/stixmal/praktikum_project_ds/blob/main/Определение%20рыночной%20стоимости%20автомобиля/autos.ipynb) | Регрессия, градиентный бустинг, исследовательский анализ,  предобработка данных| *pandas, NumPy, matplotlib, LightGBM* |
 | [Поиск токсичных комментариев](https://github.com/stixmal/praktikum_project_ds/blob/main/Поиск%20токсичных%20комментариев/toxic_comments.ipynb) | NLP, векторизация текстов, классификация, лемматизация, регулярные выражения| *pandas, NumPy, NLTK, scikit-learn, LightGBM* |
+| [Определение возраста покупателей](https://github.com/stixmal/praktikum_project_ds/blob/main/Компьютерное%20зрение/foto_cv.ipynb) | Компьютерное зрение, ResNet50 | *pandas, matplotlib, Keras* |
 
 ---
