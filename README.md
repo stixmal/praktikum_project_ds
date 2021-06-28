@@ -21,6 +21,6 @@
 | [Определение рыночной стоимости автомобиля](https://github.com/stixmal/praktikum_project_ds/blob/main/Определение%20рыночной%20стоимости%20автомобиля/autos.ipynb) | Регрессия, градиентный бустинг, исследовательский анализ,  предобработка данных| *pandas, NumPy, matplotlib, LightGBM* |
 | [Поиск токсичных комментариев](https://github.com/stixmal/praktikum_project_ds/blob/main/Поиск%20токсичных%20комментариев/toxic_comments.ipynb) | NLP, векторизация текстов, классификация, лемматизация, регулярные выражения| *pandas, NumPy, NLTK, scikit-learn, LightGBM* |
 | [Определение возраста покупателей](https://github.com/stixmal/praktikum_project_ds/blob/main/Компьютерное%20зрение/foto_cv.ipynb) | Компьютерное зрение, ResNet50 | *pandas, matplotlib, Keras* |
-| [Оптимизация производственных расходов (выпускной проект)](https://github.com/stixmal/praktikum_project_ds/blob/main/Оптимизация%20производственных%20расходов%20(выпускной%20проект)/optimization_final.ipynb) |  | *pandas, matplotlib, seaborn, scikit-learn, CatBoost* |
+| [Оптимизация производственных расходов (выпускной проект)](https://github.com/stixmal/praktikum_project_ds/blob/main/Оптимизация%20производственных%20расходов%20(выпускной%20проект)/optimization_final.ipynb) | Регрессия, feature engineering, исследовательский анализ, предобработка данных | *pandas, matplotlib, seaborn, scikit-learn, CatBoost* |
 
 ---
