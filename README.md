@@ -19,6 +19,6 @@
 | [Моделирование процесса восстановления золота из руды](https://github.com/stixmal/praktikum_project_ds/blob/main/Моделирование%20процесса%20восстановления%20золота%20из%20руды/gold_recovery.ipynb) | Исследовательский анализ, визуализация данных, регрессия, классификация | *pandas, NumPy, matplotlib, Seaborn, SciPy, scikit-learn* |
 | [Защита данных страховой компании](https://github.com/stixmal/praktikum_project_ds/blob/main/Защита%20данных%20страховой%20компании/data_protection.ipynb) | Линейная алгебра, машинное обучение | *pandas, NumPy, scikit-learn* |
 | [Определение рыночной стоимости автомобиля](https://github.com/stixmal/praktikum_project_ds/blob/main/Определение%20рыночной%20стоимости%20автомобиля/autos.ipynb) | Регрессия, градиентный бустинг, исследовательский анализ,  предобработка данных| *pandas, NumPy, matplotlib, LightGBM* |
-| [Поиск токсичных комментариев](https://github.com/stixmal/praktikum_project_ds/blob/main/Поиск%20токсичных%20комментариев/toxic_comments.ipynb) | Регрессия, градиентный бустинг, исследовательский анализ,  предобработка данных| *pandas, NumPy, NLTK, scikit-learn, LightGBM* |
+| [Поиск токсичных комментариев](https://github.com/stixmal/praktikum_project_ds/blob/main/Поиск%20токсичных%20комментариев/toxic_comments.ipynb) | NLP, векторизация текстов, классификация, лемматизация, регулярные выражения| *pandas, NumPy, NLTK, scikit-learn, LightGBM* |
 
 ---
